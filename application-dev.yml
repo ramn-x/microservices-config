@@ -1,6 +1,6 @@
 spring:
   application:
-    name: CONFIG-DEFAULT
+    name: CONFIG-DEv
 eureka:
   client:
     register-with-eureka: true
